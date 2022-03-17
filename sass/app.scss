@@ -1,0 +1,32 @@
+//abstract 
+ 
+ @import "./abstract/variable";
+
+
+ //base file
+  @import "./base/reset";
+  @import "./base/mixins";
+  
+
+  //components
+   @import "./components/button";
+   @import "./components/carosel";
+   @import "./components/slider";
+
+   //core 
+     @import "./core/typography";
+
+    //layout
+      @import "./layout/footer";
+      @import "./layout/header";
+
+     //pages
+         @import "./pages/hero";
+         @import "./pages/about";
+         @import "./pages/service";
+         @import "./pages/timeline";
+
+
+
+
+
